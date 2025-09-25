@@ -1,97 +1,89 @@
-
-<!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-<p align="center"> <h1 align="center"> Hi, I am Rahul Kashyap <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<!--![](https://github.com/sayantan-hazra/sayantan-hazra/blob/master/banner.png)-->
+<p align="center"> 
+  <h1 align="center"> Hi, I am Sayantan Hazra <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /></h1> </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/imkashyap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://leetcode.com/imkashyap/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
-<a href="https://www.hackerrank.com/imkashyap"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-<a href="https://twitter.com/imkashyap_/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://www.instagram.com/imkashyap__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="mailto:rahulkashyap4041@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+         width="45" /></h1> 
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imKashyap&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/hazra-sayantan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://sayantanhazra.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+<a href="https://x.com/sayantan_hazra_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+<a href="mailto:sayantanhazra@outlook.com"><img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+</p>
 
-* I am a Software Engineer at Samsung. My skills at work include Java, Spring, gRPC.
-* I am a 2022 Batch Electrical Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).
-* I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
-* I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sayantan-hazra&label=Profile%20Visits&color=blue&style=plastic" alt="sayantan-hazra" /> </p>
+
+* 🎓 I am pursuing **BCA (Techno Main Salt Lake, Batch 2028)**.  
+* 💻 Currently an **Intern at Youth Career Hub**.  
+* ⚡ Strong foundation in **C, Java, Python, HTML, CSS, JavaScript**.  
+* 🚀 Learning **DSA, Java Full Stack (Spring Boot, JDBC, Servlets)**.  
+* 🌱 Exploring **DBMS, Web Design & Backend Development**.  
+* 🎨 Actively contributing to clubs like **Samarth** and leading **codeXperts**.  
 
 ***
-**⚙️ &nbsp;GitHub Analytics**
+
+**⚙️ &nbsp;GitHub Analytics**  
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=imkashyap&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKashyap&theme=dark&hide_border=true&layout=compact"></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=sayantan-hazra&show_icons=true&theme=dark&locale=en&hide_border=true" alt="sayantan-hazra" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantan-hazra&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
 
-<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
-<!-- *** -->
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
-<!--
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
- Last Updated on 24/09/2022 18:53:40 UTC
--->
- 
-<!--END_SECTION:waka-->
 ***
-**♨️ &nbsp;DSA Analytics**
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/imkashyap?theme=dark&font=Noto%20Sans&ext=contest" 
-         alt="Leetcode stats" height="350"/></p>
-         
+**🌐 &nbsp;My Website**  
+
+<p align="center">
+  <a href="https://sayantanhazra.com">
+    <img src="https://your-image-link-here" alt="sayantanhazra.com" height="350"/>
+  </a>
+</p>
+
 ***
 
 **🛠 &nbsp;Tech Stack**
 
-- Languages: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
+- Languages: &nbsp;  
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
-- Frameworks: &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=B7C220)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+- Frameworks: &nbsp;  
+  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+  ![JDBC](https://img.shields.io/badge/-JDBC-333333?style=flat&logo=java)
+  ![Servlets](https://img.shields.io/badge/-Servlets-333333?style=flat&logo=java)
 
-- Databases:  &nbsp;
-  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+- Databases: &nbsp;  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![DBMS](https://img.shields.io/badge/-DBMS-333333?style=flat&logo=databricks)
 
-- IDEs: &nbsp;
+- IDEs & Tools: &nbsp;  
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ***
 
--  🔭 I’m currently building backend in Java.
+- 🔭 I’m currently working on **DSA in C & Java Full Stack Projects**.  
+- 🌱 I’m learning **Spring Boot, DBMS & Backend Development**.  
+- 💬 Ask me about **C, Java, Python, DBMS, DSA, Web Development**.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: *I am a code lover, who tries to work with different problems to find their answers.*  
 
--  🌱 I’m currently learning more in Spring as a Framework. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
+***
 
+<div align="center">
+
+### Show some ❤️ by starring some of my repositories!
+
+</div>
 -  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
 
 -  😄 Pronouns: He/His
