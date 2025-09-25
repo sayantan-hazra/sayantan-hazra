@@ -81,8 +81,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories!
-
 </div>
 -  💬 Ask me about C, Java, Python, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
 
