@@ -1,6 +1,6 @@
-<!--![](https://github.com/sayantan-hazra/sayantan-hazra/blob/master/banner.png)-->
+<!--![](https://raw.githubusercontent.com/sayantan-hazra/sayantan-hazra/refs/heads/main/Assets/Sayantan%20Hazra_20250925_092541_0000.png)-->
 <p align="center"> 
-  <h1 align="center"> Hi, I am Sayantan Hazra <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+  <h1 align="center"> Hi, I am Sayantan Hazra <img src="https://raw.githubusercontent.com/sayantan-hazra/sayantan-hazra/refs/heads/main/Assets/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1> 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://sayantanhazra.com">
-    <img src="https://your-image-link-here" alt="sayantanhazra.com" height="350"/>
+    <img src="https://raw.githubusercontent.com/sayantan-hazra/sayantan-hazra/refs/heads/main/Assets/Website.jpg" alt="sayantanhazra.com" height="350"/>
   </a>
 </p>
 
@@ -84,7 +84,7 @@
 ### Show some ❤️ by starring some of my repositories!
 
 </div>
--  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
+-  💬 Ask me about C, Java, Python, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
 
 -  😄 Pronouns: He/His
 
