@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://sayantanhazra.com">
-    <img src="https://raw.githubusercontent.com/sayantan-hazra/sayantan-hazra/refs/heads/main/Assets/Website.jpg" alt="sayantanhazra.com" height="350"/>
+    <img src="https://raw.githubusercontent.com/sayantan-hazra/sayantan-hazra/refs/heads/main/Assets/image.png" alt="sayantanhazra.com" height="350"/>
   </a>
 </p>
 
