@@ -1,0 +1,93 @@
+✅ DBMS ASSIGNMENT – 1 (DDL)
+
+(Data Definition Language) 
+
+1. Create STUDENT table
+
+CREATE TABLE STUDENT ( Roll_No INT, Name VARCHAR(8), Age INT, Department VARCHAR(5) ); 
+
+INSERT INTO STUDENT VALUES (101, 'Rahul', 20, 'CSE'), (102, 'Anita', 21, 'BCA'), (103, 'Vikram', 22, 'IT'), (104, 'Sneha', 20, 'CSE'); 
+
+2. Add Email column and insert values
+
+ALTER TABLE STUDENT ADD Email VARCHAR(20); 
+
+UPDATE STUDENT SET Email='rahul@gmail.com' 
+WHERE Roll_No=101; 
+
+UPDATE STUDENT SET Email='anita@gmail.com' 
+WHERE Roll_No=102; 
+
+
+UPDATE STUDENT SET Email='vikram@gmail.com' WHERE Roll_No=103; UPDATE STUDENT SET Email='sneha@gmail.com' WHERE Roll_No=104; 
+
+3. Increase Department size
+
+ALTER TABLE STUDENT MODIFY Department VARCHAR(8); 
+
+4. Rename table
+
+RENAME STUDENT TO STUDENT_INFO; 
+
+5. Remove Age column
+
+ALTER TABLE STUDENT_INFO DROP COLUMN Age; 
+
+6. Delete all records but keep structure
+
+TRUNCATE TABLE STUDENT_INFO; 
+
+7. Delete table permanently
+
+DROP TABLE STUDENT_INFO; 
+
+8. Create EMPLOYEE table with salary constraint
+
+CREATE TABLE EMPLOYEE ( Emp_ID INT, Name VARCHAR(5), Department VARCHAR(5), Salary INT CHECK (Salary > 10000) ); INSERT INTO EMPLOYEE VALUES (1, 'Amit', 'HR', 25000), (2, 'Neha', 'IT', 32000), (3, 'Raj', 'Fin', 28000), (4, 'Pooja', 'Mkt', 30000); 
+
+9. Create LIBRARY table with default Status
+
+CREATE TABLE LIBRARY ( Book_ID INT, Title VARCHAR(25), Author VARCHAR(8), Status VARCHAR(10) DEFAULT 'Available' ); INSERT INTO LIBRARY VALUES (101, 'Database System Concepts', 'Korth', 'Available'), (102, 'Operating System', 'Galvin', 'Available'), (103, 'Computer Networks', 'Forouzen', 'Issued'), (104, 'Data Structures', 'Sahni', 'Available'); 
+
+
+
+
+✅ DBMS ASSIGNMENT – 2 (DML)
+
+(Data Manipulation Language) 
+
+1. Create STUDENT table
+
+CREATE TABLE STUDENT ( Roll_No NUMBER(3), Name VARCHAR2(6), Age NUMBER(2), Department VARCHAR2(3), Email VARCHAR2(20) ); INSERT INTO STUDENT VALUES (101, 'Rahul', 20, 'CSE', 'rahul@gmail.com'), (102, 'Anita', 21, 'BCA', 'anita@gmail.com'), (103, 'Vikram', 22, 'IT', 'vikram@gmail.com'), (104, 'Sneha', 20, 'CSE', 'sneha@gmail.com'), (105, 'Arjun', 23, 'ECE', 'arjun@gmail.com'); 
+
+2. Insert new student
+
+INSERT INTO STUDENT VALUES (106, 'Meera', 21, 'IT', 'meera@gmail.com'); 
+
+3. Insert partial values
+
+INSERT INTO STUDENT (Roll_No, Name, Department) VALUES (107, 'Kunal', 'BCA'); 
+
+4. Update Arjun’s department
+
+UPDATE STUDENT SET Department='CSE' WHERE Name='Arjun'; 
+
+5. Update age of Roll_No 101
+
+UPDATE STUDENT SET Age=21 WHERE Roll_No=101; 
+
+6. Increase age by 1 for CSE students
+
+UPDATE STUDENT SET Age = Age + 1 WHERE Department='CSE'; 
+
+7. Delete Roll_No = 103
+
+DELETE FROM STUDENT WHERE Roll_No=103; 
+
+8. Delete all BCA students
+
+DELETE FROM STUDENT WHERE Department='BCA'; 
+
+9. Remove all records
+
+TRUNCATE TABLE STUDENT; 
